@@ -110,3 +110,7 @@ display: flex;
 	justify-content: center;
 	align-items: center;
 }
+
+#fb-root{
+	z-index: 999;
+}
